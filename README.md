@@ -26,5 +26,5 @@ npm start
 
 ------------------------
 
-# Feito por <a href="github.com/alezzo">Alezzo ☕ </a>
+# Feito por <a href="github.com/alezzott">Alezzo ☕ </a>
 
